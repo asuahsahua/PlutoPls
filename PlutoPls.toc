@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: PLUTO PLS
+## Dependencies: DBM-Core
+## Notes: Bitches out hunters that have pack on when dbm pull timer is started
+## Author: Natalie on Maiev-US (Curse profile: Asuah)
+
+PlutoPls.lua
